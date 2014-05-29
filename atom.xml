@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hi. I'm Tridev Gurung.]]></title>
+  <title><![CDATA[Under Construction]]></title>
   <link href="http://gtridev.github.io/atom.xml" rel="self"/>
   <link href="http://gtridev.github.io/"/>
-  <updated>2014-05-29T10:35:21+05:45</updated>
+  <updated>2014-05-29T10:46:41+05:45</updated>
   <id>http://gtridev.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Tridev Gurung]]></name>
+    <email><![CDATA[tridevgrg@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
